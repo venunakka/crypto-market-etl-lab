@@ -1,0 +1,5 @@
+.env
+.env.txt
+*.pbix
+__pycache__/
+venv/

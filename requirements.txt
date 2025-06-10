@@ -1,0 +1,9 @@
+requests
+pandas
+beautifulsoup4
+psycopg2
+pymongo
+elasticsearch
+python-dotenv
+jupyter
+dotenv
